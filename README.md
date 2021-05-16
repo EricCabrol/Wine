@@ -4,6 +4,8 @@ In 2014 I had written this small Perl script to fetch all the wines with a signi
 [fetch_wines_Chateauneuf.pl](https://github.com/EricCabrol/Wine/blob/master/fetch_wines_Chateauneuf.pl)  
 The script was explained (in french) [here](http://eric.cabrol.free.fr/dotclear/index.php/2014/09/30/1395-data-digging-for-dummies).  I tested it again recently and it seems not to work anymore. I didn't check why.
 
+I had also written the same year a series of 5 blog posts about the so-called "Bordeaux equation" by Ashenfelter, but it's also in french. The last post is [here](http://eric.cabrol.free.fr/dotclear/index.php/2014/09/18/1393-l-equation-du-vin-de-bordeaux-part-5)
+
 
 ## Resources for wine geeks
 
